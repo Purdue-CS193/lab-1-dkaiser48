@@ -23,8 +23,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-Test the editor
-
 [Link](url) and ![Image](src)
 ```
 
@@ -37,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+#Daniel Kaiser's first CS193 Lab
+
+-I do not have to wake up very early
+-This class will hopefully make my other CS classes easier 
+-It does not seem like a very time intensive course
